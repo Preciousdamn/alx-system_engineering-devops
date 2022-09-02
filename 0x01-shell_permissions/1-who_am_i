@@ -1,2 +1,2 @@
-#!/bin/bash\nid -un
+#!/bin/bash
 ls
